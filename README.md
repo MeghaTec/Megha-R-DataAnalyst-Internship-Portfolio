@@ -8,12 +8,12 @@ This repository consolidates a complete data analytics lifecycle: data ingestion
 | Phase | Focus | Repository |
 |-------|-------|------------|
 | **Part 1** | Data Collection & Cleaning | [🔗 Link to Repo 1](https://github.com/MeghaTec/Data-Analyst-Task1.git) |
-| **Part 2** | EDA & Feature Engineering | [🔗 Link to Repo 2]([URL_PART_2](https://github.com/MeghaTec/Data-Analyst-Task2)) |
-| **Part 3** | Modeling & Validation | [🔗 Link to Repo 3]([URL_PART_3](https://github.com/MeghaTec/Data-Analyst-Task3)) |
-| **Part 4** | Dashboard & Executive Reporting | [🔗 Link to Repo 4]([URL_PART_4](https://github.com/MeghaTec/Data-Analyst-Task4)) |
+| **Part 2** | EDA & Feature Engineering | [🔗 Link to Repo 2]((https://github.com/MeghaTec/Data-Analyst-Task2)) |
+| **Part 3** | Modeling & Validation | [🔗 Link to Repo 3]((https://github.com/MeghaTec/Data-Analyst-Task3)) |
+| **Part 4** | Dashboard & Executive Reporting | [🔗 Link to Repo 4]((https://github.com/MeghaTec/Data-Analyst-Task4)) |
 
 ##  Final Deliverables
-- 📄 [Download Presentation Deck (PDF)]()
+- 📄 [Download Presentation Deck (PDF)](https://github.com/MeghaTec/Data-Analyst-Task4/blob/main/Task4_presentation.pptx)
 
 
 ## Key Learnings & Technical Skills
