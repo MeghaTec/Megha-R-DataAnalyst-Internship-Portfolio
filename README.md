@@ -28,3 +28,12 @@ This repository consolidates a complete data analytics lifecycle: data ingestion
 - Established documentation, code review, and testing standards for reproducible workflows
 
 
+### How to Use It 
+-Save the file as requirements.txt in your master repo
+-Create a virtual environment (highly recommended):
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+##Install all dependencies:
+pip install -r requirements.txt
