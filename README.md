@@ -1,5 +1,4 @@
 # Megha-R-DataAnalyst-Internship-Portfolio
-#  Data Analyst Internship Portfolio | Megha R
 > End-to-end data analytics project completed during the Data Analyst Internship at ApexPlanet Software Pvt.Ltd Internship (March 2026 -April 2026)
 
 ##  Project Overview
@@ -8,13 +7,13 @@ This repository consolidates a complete data analytics lifecycle: data ingestion
 ## 🔗 Project Components
 | Phase | Focus | Repository |
 |-------|-------|------------|
-| **Part 1** | Data Collection & Cleaning | [🔗 Link to Repo 1]() |
-| **Part 2** | EDA & Feature Engineering | [🔗 Link to Repo 2](URL_PART_2) |
-| **Part 3** | Modeling & Validation | [🔗 Link to Repo 3](URL_PART_3) |
-| **Part 4** | Dashboard & Executive Reporting | [🔗 Link to Repo 4](URL_PART_4) |
+| **Part 1** | Data Collection & Cleaning | [🔗 Link to Repo 1](https://github.com/MeghaTec/Data-Analyst-Task1.git) |
+| **Part 2** | EDA & Feature Engineering | [🔗 Link to Repo 2]([URL_PART_2](https://github.com/MeghaTec/Data-Analyst-Task2)) |
+| **Part 3** | Modeling & Validation | [🔗 Link to Repo 3]([URL_PART_3](https://github.com/MeghaTec/Data-Analyst-Task3)) |
+| **Part 4** | Dashboard & Executive Reporting | [🔗 Link to Repo 4]([URL_PART_4](https://github.com/MeghaTec/Data-Analyst-Task4)) |
 
 ##  Final Deliverables
-- 📄 [Download Presentation Deck (PDF)](presentation/final_portfolio_deck.pdf)
+- 📄 [Download Presentation Deck (PDF)]()
 
 
 ## Key Learnings & Technical Skills
