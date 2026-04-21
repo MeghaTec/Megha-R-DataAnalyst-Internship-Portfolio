@@ -13,6 +13,7 @@ This repository consolidates a complete data analytics lifecycle: data ingestion
 | **Part 4** | Dashboard & Executive Reporting | [🔗 Link to Repo 4](https://github.com/MeghaTec/Data-Analyst-Task4) |
 
 ##  Final Deliverables
+- [Visit Final Project Portfolio](https://meghatec.github.io/Megha-R-DataAnalyst-Internship-Portfolio/)
 - 📄 [Download Presentation Deck (PDF)](https://github.com/MeghaTec/Data-Analyst-Task4/blob/main/Task4_presentation.pptx)
 
 
